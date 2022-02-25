@@ -3,7 +3,9 @@
 - I’m just finished my Bachelor's in Pjysics 
 - I’m looking to collaborate on Data Science Projects
 - Contact me:
+- 
   pablo.castrejon.sanchez@gmail.com
+  
   https://www.linkedin.com/in/pablo-castrej%C3%B3n-s%C3%A1nchez-6445731b6/
 
 <!---
