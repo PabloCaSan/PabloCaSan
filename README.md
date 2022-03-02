@@ -1,5 +1,5 @@
 - Hi, I’m Pablo Castrejón (@PabloCaSan)
-- I’m just finished my Bachelor's in Physics 
+- I've just finished my Bachelor's in Physics 
 - I’m looking to collaborate on Data Science Projects
 - I’m interested in Data Science, Artificial Intelligence, Robotics and Development of Medical Devices
 - My email: pablo.castrejon.sanchez@gmail.com
